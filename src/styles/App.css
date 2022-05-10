@@ -35,9 +35,20 @@ header{
   color: white;
 }
 
+.note {
+  font-size: 25px;
+  color: rgb(237, 232, 180);
+}
+
 .subtitle {
   font-size: 25px;
   color: white;
+}
+
+.owner {
+  font-size: 25px;
+  margin-top: 20px;
+  color: rgb(121, 202, 220);
 }
 
 .left{
